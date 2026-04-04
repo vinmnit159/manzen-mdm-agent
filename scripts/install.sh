@@ -6,7 +6,7 @@ set -euo pipefail
 AGENT_URL="https://github.com/vinmnit159/manzen-mdm-agent/releases/latest/download/manzen-agent-darwin-arm64"
 INSTALL_PATH="/usr/local/bin/manzen-agent"
 PLIST_PATH="/Library/LaunchDaemons/com.manzen.agent.plist"
-SERVER_URL="https://ismsbackend.bitcoingames1346.com"
+SERVER_URL="https://api.cloudanzen.com"
 INTERVAL=900  # 15 minutes
 
 TOKEN=""
